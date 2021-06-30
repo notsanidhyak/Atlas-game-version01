@@ -1,5 +1,5 @@
 # Atlas-game-version01
-Simple console printed Atlas game to start with :)
+Simple console printed Atlas game to start with. 
 Language: python (version 3.0 and above)
 
 Download the other 5 files and put them all in a new FOLDER on your device. Then run "main-game-v01.py" on your python idle. I have attached all the necessary files (including libraries).
@@ -21,4 +21,4 @@ Sidenote:
 I have designed this game as per the screen dimensions of my mobile phone (i have attached a screenshot of how the game looks on my phone). So the lines and the spacing may look little bit disorganized on your device. Version 3 of this game will solve this issue.
 
 Hope you like it
-Thank you
+Thank you :)
