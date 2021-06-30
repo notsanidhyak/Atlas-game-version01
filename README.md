@@ -1,8 +1,9 @@
 # Atlas-game-version01
 Simple console printed Atlas game to start with. 
+
 Language: python (version 3.0 and above)
 
-Download the other 5 files and put them all in a new FOLDER on your device. Then run "main-game-v01.py" on your python idle. I have attached all the necessary files (including libraries).
+Download the other 5 files (main-game-v01.py, countries.txt, highscore.txt, alive progress.whl & pyfiglet.whl) and put them all in a new FOLDER on your device. Then run "main-game-v01.py" on your python idle. I have attached all the necessary files (including libraries).
 
 Libraries used in this game:
 
