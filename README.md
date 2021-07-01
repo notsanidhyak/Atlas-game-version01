@@ -19,7 +19,7 @@ My future ideas for this project:
 
 Sidenote:
 
-I have designed this game as per the screen dimensions of my mobile phone (i have attached a screenshot of how the game looks on my phone https://github.com/notsanidhyak/Atlas-game-version01/this_is_how_the_game_looks_on_my_phone.png?raw=true is how the game looks on my phone.png). So the lines and the spacing may look little bit disorganized on your device. Version 3 of this game will solve this issue.
+I have designed this game as per the screen dimensions of my mobile phone (i have attached a screenshot of how the game looks on my phone). So the lines and the spacing may look little bit disorganized on your device. Version 3 of this game will solve this issue.
 
 Hope you like it
 Thank you :)
