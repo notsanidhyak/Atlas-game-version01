@@ -1,5 +1,5 @@
 # Atlas-game-version01
-Simple console printed Atlas game to start with. 
+This is a simple console printed Atlas game which i made looong looooong back. Posting it here to start with.
 
 Language: python (version 3.0 and above)
 
